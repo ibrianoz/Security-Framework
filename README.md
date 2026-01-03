@@ -2,10 +2,6 @@
 
 ![ZX301 Cover Image](ZX301.png)
 
-> **Student:** Oz Itzkowitz (S10)  
-> **Class:** TMagen7736/37  
-> **Instructor:** Erel Regev
-
 ---
 
 ## 📖 Executive Summary
