@@ -110,7 +110,7 @@ Clone the repository:
 
 Bash
 
-git clone [https://github.com/YourUsername/ZX301.git](https://github.com/YourUsername/ZX301.git)
+git clone [https://github.com/ibrianoz/ZX301.git](https://github.com/ibrianoz/ZX301.git)
 cd ZX301
 Make the script executable:
 
